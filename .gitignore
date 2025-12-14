@@ -8,5 +8,7 @@
 # [ gitignore ]
 
 # : - any
+.*
+!.github
 _*
 !_sidebar.md
